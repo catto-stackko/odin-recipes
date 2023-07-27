@@ -11,4 +11,11 @@ First Iteration:
 6. Added the typical html boiler plate
 7. Added the title: "Odin Recipes"
 
-
+Second Iteration:
+8. Used mkdir to create a new directory within odin-recipes called recipes, this is where recipe pages will be contained
+9. Created a lucky-lunch.html which 
+10. Added a boilerplate and header to lucky-lunch.html
+11. Returned to index.html to add a link to the new recipe page
+    a. <a>Lucky Lunch</a> creates a button with "Lucky Lunch" as the title
+    b. <a href="recipes/lucky-lunch.html">Lucky Lunch</a> adds the local link to the button to make it actually work
+12. Used git commit -m "descriptive message" to commit the file changes
