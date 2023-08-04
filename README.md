@@ -17,3 +17,11 @@ Here is an outline of everything I've done to complete it.
     a. <a>Lucky Lunch</a> creates a button with "Lucky Lunch" as the title
     b. <a href="recipes/lucky-lunch.html">Lucky Lunch</a> adds the local link to the button to make it actually work
 12. Used git commit -m "descriptive message" to commit the file changes
+
+Third Iteration:
+13. Added an image of lucky lunch in game to the page with <img src="../images/lucky-lunch-in-game.jpg" alt="lucky lunch in game"> the two period indicate the parent directory as that directory holds the images folder where all images are held.
+14. Added an "Ingredients" section with an unordered list (<ul> with <li> enclosed)
+15. Added a "Steps" section with an ordered/numbered list (<ol> with <li> enclosed)
+16. Added bold with <strong>
+17. Saved progress with git
+
