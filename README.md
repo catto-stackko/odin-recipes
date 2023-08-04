@@ -25,3 +25,7 @@ Third Iteration:
 16. Added bold with <strong>
 17. Saved progress with git
 
+Fourth Iteration: 
+18. Added the 'Pumpkin Soup' page and a link to it on the index page 
+19. Changed the images to be simply the actual pixel art 
+
