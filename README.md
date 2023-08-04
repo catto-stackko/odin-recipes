@@ -19,9 +19,9 @@ Here is an outline of everything I've done to complete it, separated into 4 majo
 12. Used git commit -m "descriptive message" to commit the file changes
 
 13. Added an image of lucky lunch in game to the page with <img src="../images/lucky-lunch-in-game.jpg" alt="lucky lunch in game"> the two period indicate the parent directory as that directory holds the images folder where all images are held.
-14. Added an "Ingredients" section with an unordered list (<ul> with <li> enclosed)
-15. Added a "Steps" section with an ordered/numbered list (<ol> with <li> enclosed)
-16. Added bold with <strong>
+14. Added an "Ingredients" section with an unordered list (ul with li enclosed)
+15. Added a "Steps" section with an ordered/numbered list (ol with li enclosed)
+16. Added bold with strong
 17. Saved progress with git
 
 18. Added the 'Pumpkin Soup' page and a link to it on the index page 
